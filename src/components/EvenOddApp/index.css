@@ -1,0 +1,37 @@
+/* Write your CSS here */
+.count-bg-con {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  border-radius: 8px;
+  height: 100vh;
+  font-family: 'Roboto';
+}
+
+.count-card {
+  background: linear-gradient(#ff6e7f, #bfe9ff);
+  height: 400px;
+  width: 500px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border-radius: 15px;
+}
+
+.count-status {
+  color: #334155;
+}
+
+.button {
+  height: 30px;
+  width: 90px;
+  border: 0;
+  border-radius: 8px;
+}
+
+.count-note {
+  color: #334155;
+  font-size: 15px;
+}
